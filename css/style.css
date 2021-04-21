@@ -1,5 +1,5 @@
 @charset "UTF-8";
-html,body{ height: 100%; background: yellow;}
+html,body{ height: 100%; background: skyblue;}
 body{ font-family: 'Noto Sans KR', sans-serif; color: #666666; }
 ol,ul,li{ list-style: none; }
 ol,ul,li{ margin: 0; padding: 0; }
