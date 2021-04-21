@@ -1,5 +1,5 @@
 @charset "UTF-8";
-html,body{ height: 100%; background: skyblue;}
+html,body{ height: 100%;}
 body{ font-family: 'Noto Sans KR', sans-serif; color: #666666; }
 ol,ul,li{ list-style: none; }
 ol,ul,li{ margin: 0; padding: 0; }
@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1; }
   border: 1px solid #0055b8;
   box-sizing: border-box;
   background: #0055b8;
-  font-weight: bold;  /*700*/
+  /* font-weight: bold;  /*700*/ */
   color: white;
 }
 .common_btn:hover{
